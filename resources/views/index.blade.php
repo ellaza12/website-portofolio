@@ -340,6 +340,7 @@
     </div> <!-- container -->
 </section>
 
+
 <hr>
 
 <section id="award" class="award_area pt-115 pb-120">
@@ -347,7 +348,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-6">
                 <div class="section_title text-center pb-30">
-                    <h3 class="main_title">Award</h3>
+                    <h3 class="main_title">Pengalaman Organisasi & Award</h3>
                     <ul class="line">
                         <li></li>
                         <li></li>
@@ -358,6 +359,16 @@
         </div>
         <div class="row">
             <div class="col-lg-6">
+                <div class="pendidikan_item mt-30">
+                    <h4 class="pendidikan_title">Forsipol (Forum Studi Islam PNP)</h4>
+                    <p>Anggota Divisi Multimedia (2022 - sekarang)</p>
+                    <br>
+                </div>
+                <div class="pendidikan_item mt-30">
+                    <h4 class="pendidikan_title">LRAI ( Lembaga Responsi Agama Islam )</h4>
+                    <p>Anggota Divisi Multimedia (2022 - sekarang)</p>
+                    <br>
+                </div>
                 <div class="pendidikan_item mt-30">
                     <h4 class="pendidikan_title">UNP EXPO</h4>
                     <p>Juara 2 Lomba Ide Kreatif </p>
